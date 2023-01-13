@@ -17,7 +17,7 @@ Returns list of tag id which we can provide to vsphere server module
 
 Example Usage
 
-
+```
 module "tags" {
 
     source = "./../tags"
@@ -37,6 +37,7 @@ module "tags" {
     vcenter-ip = "${local.vcenter_url}" 
 
 }
+```
 
 Output :
 
