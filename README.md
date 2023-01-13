@@ -1,7 +1,7 @@
 # Terraform-vSphere-tags-module
 
 
-Terraform module which provides tag ids as result.
+Terraform module which provides vsphere tag ids as result for attaching to VM's or any resources in vSphere.
 
 Features : 
 
